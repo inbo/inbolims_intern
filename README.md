@@ -1,2 +1,3 @@
 # inbolims_intern
-Interne werking LIMS systeem
+
+NOT TO BE USED
